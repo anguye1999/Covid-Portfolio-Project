@@ -9,4 +9,5 @@ https://ourworldindata.org/covid-deaths
 The dataset was broken down in Excel to show:
 
 -Covid Deaths
+
 -Covid Vaccination
